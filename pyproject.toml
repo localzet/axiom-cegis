@@ -1,0 +1,9 @@
+[project]
+name = "axiom-cegis"
+version = "0.2.0"
+description = "Оркестратор синтеза Axiom с уточнением по контрпримерам"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 100
