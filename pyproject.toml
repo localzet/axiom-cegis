@@ -1,4 +1,5 @@
 [project]
+maintainers = [{name = "Ivan Zorin", email = "creator@localzet.com"}]
 name = "axiom-cegis"
 version = "0.2.0"
 description = "Оркестратор синтеза Axiom с уточнением по контрпримерам"
